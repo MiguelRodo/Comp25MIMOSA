@@ -1,5 +1,5 @@
 {
-  "image": "ghcr.io/satvilab/comp25mimosa",
+  "image": "ghcr.io/miguelrodo/comp25mimosa",
   "customizations": {
     "vscode": {
       "extensions": [
