@@ -1,7 +1,6 @@
 # README
 
-The purpose of this project is to
-`[briefly describe the project's goals and objectives]`
+The purpose of this project is to set up all repos and the container for the honours project to assess MIMOSA and MIMOSA2's performance
 
 ## Reproducing the analysis
 
