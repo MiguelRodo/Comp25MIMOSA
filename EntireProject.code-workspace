@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "name": "Comp25MIMOSA",
+      "path": "."
+    },
+    {
+      "name": "Analysis25MIMOSAWitbooi",
+      "path": "../Analysis25MIMOSAWitbooi"
+    },
+    {
+      "name": "Analysis25MIMOSALimane",
+      "path": "../Analysis25MIMOSALimane"
+    }
+}
