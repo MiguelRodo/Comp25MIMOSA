@@ -11,5 +11,9 @@
     {
       "name": "Analysis25MIMOSALimane",
       "path": "../Analysis25MIMOSALimane"
+    },
+    {
+      "name": "Analysis25MIMOSARodo",
+      "path": "../Analysis25MIMOSARodo"
     }
 }
